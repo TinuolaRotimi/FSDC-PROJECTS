@@ -1,2 +1,2 @@
-# FSDC-PROJECTS
+# FSDS-PROJECTS
 This respository contains all task given by NIT
